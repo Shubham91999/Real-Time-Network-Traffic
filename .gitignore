@@ -59,6 +59,10 @@ outputs/
 *.jpeg
 *.gif
 
+# But keep screenshots folder
+!screenshots/
+!screenshots/*.png
+
 # Ignore temporary files
 *.tmp
 *.swp
