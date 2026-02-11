@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/config.toml
+
+# Jupyter Notebooks
+*.ipynb
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Cache
+.cache/
+
+# Test results
+htmlcov/
+coverage.xml
+
+# Misc
+*.sqlite3
+*.db
+
+# Ignore data files
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.json
+
+# Ignore output folders
+output/
+outputs/
+
+# Ignore model files
+*.pkl
+*.joblib
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
